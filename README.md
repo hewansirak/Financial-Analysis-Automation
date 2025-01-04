@@ -21,3 +21,7 @@ Pick 1 of the following 3 pathways to complete this project:
   - [Serving an LLM Application as an API Endpoint](https://www.datacamp.com/tutorial/serving-an-llm-application-as-an-api-endpoint-using-fastapi-in-python)
   - [Nasdaq Stock Screener](https://www.nasdaq.com/market-activity/stocks/screener)
   - [Accelerating LLM operations with parallel-parrot](https://bradito.me/blog/parallel-parrot/)
+
+Check out the resources to help you get started:
+- [Free Worldwide News API](https://www.thenewsapi.com/)
+- [Yahoo Finance API in Python](https://www.geeksforgeeks.org/get-financial-data-from-yahoo-finance-with-python/)
